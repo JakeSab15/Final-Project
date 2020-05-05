@@ -230,8 +230,8 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
                     <connections>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="iIJ-Xh-SRo"/>
                         <segue destination="mM1-wN-GJE" kind="relationship" relationship="viewControllers" id="6CD-g3-RlQ"/>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="iIJ-Xh-SRo"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mmH-J6-sCW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

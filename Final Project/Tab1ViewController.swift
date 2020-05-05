@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Tab1ViewController: UITabBarController {
+class Tab1ViewController: UIViewController {
     
     @IBOutlet weak var imageView: UIImageView!
     
