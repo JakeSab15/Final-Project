@@ -15,6 +15,8 @@
 		FF1E5346245DF0F200C4DA64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1E5344245DF0F200C4DA64 /* LaunchScreen.storyboard */; };
 		FF1E5351245DF0F300C4DA64 /* Final_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1E5350245DF0F300C4DA64 /* Final_ProjectTests.swift */; };
 		FF1E535C245DF0F300C4DA64 /* Final_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1E535B245DF0F300C4DA64 /* Final_ProjectUITests.swift */; };
+		FF1E536A245DF68A00C4DA64 /* Tab1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1E5369245DF68A00C4DA64 /* Tab1ViewController.swift */; };
+		FF1E536C245DF6BD00C4DA64 /* Tab2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1E536B245DF6BD00C4DA64 /* Tab2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		FF1E5357245DF0F300C4DA64 /* Final ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Final ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF1E535B245DF0F300C4DA64 /* Final_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Final_ProjectUITests.swift; sourceTree = "<group>"; };
 		FF1E535D245DF0F300C4DA64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF1E5369245DF68A00C4DA64 /* Tab1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab1ViewController.swift; sourceTree = "<group>"; };
+		FF1E536B245DF6BD00C4DA64 /* Tab2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				FF1E533B245DF0EE00C4DA64 /* SceneDelegate.swift */,
 				FF1E533D245DF0EE00C4DA64 /* ViewController.swift */,
 				FF1E533F245DF0EE00C4DA64 /* Main.storyboard */,
+				FF1E5369245DF68A00C4DA64 /* Tab1ViewController.swift */,
+				FF1E536B245DF6BD00C4DA64 /* Tab2ViewController.swift */,
 				FF1E5342245DF0F200C4DA64 /* Assets.xcassets */,
 				FF1E5344245DF0F200C4DA64 /* LaunchScreen.storyboard */,
 				FF1E5347245DF0F200C4DA64 /* Info.plist */,
@@ -261,6 +267,8 @@
 			files = (
 				FF1E533E245DF0EE00C4DA64 /* ViewController.swift in Sources */,
 				FF1E533A245DF0EE00C4DA64 /* AppDelegate.swift in Sources */,
+				FF1E536A245DF68A00C4DA64 /* Tab1ViewController.swift in Sources */,
+				FF1E536C245DF6BD00C4DA64 /* Tab2ViewController.swift in Sources */,
 				FF1E533C245DF0EE00C4DA64 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
